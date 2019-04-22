@@ -1,0 +1,756 @@
+
+1. J Exerc Rehabil. 2016 Dec 31;12(6):526-534. doi: 10.12965/jer.1632858.429.
+eCollection 2016.
+
+Treadmill exercise ameliorates symptoms of Alzheimer disease through suppressing 
+microglial activation-induced apoptosis in rats.
+
+Baek SS(1), Kim SH(1).
+
+Author information: 
+(1)Department of Sport & Health Science, College of Natural Science, Sangmyung
+University, Seoul, Korea.
+
+Alzheimer disease (AD) is a most common form of dementia and eventually causes
+impairments of learning ability and memory function. In the present study, we
+investigated the effects of treadmill exercise on the symptoms of AD focusing on 
+the microglial activation-induced apoptosis. AD was made by bilateral
+intracerebroventricular injection of streptozotocin. The rats in the exercise
+groups were made to run on a treadmill once a day for 30 min during 4 weeks. The 
+distance and latency in the Morris water maze task and the latency in the
+step-down avoidance task were increased in the AD rats, in contrast, treadmill
+exercise shortened these parameters. The numbers of terminal deoxynucleotidyl
+transferase-mediated dUTP nick end labeling-positive and caspase-3-positive cells
+in the hippocampal dentate gyrus were decreased in the AD rats, in contrast,
+treadmill exercise suppressed these numbers. Expressions of glial fibrillary
+acidic protein (GFAP) and cluster of differentiation molecule 11B (CD11b) in the 
+hippocampal dentate gyrus were increased in the AD rats, in contrast, treadmill
+exercise suppressed GFAP and CD11b expressions. Bax expression was increased and 
+Bcl-2 expression was decreased in the hippocampus of AD rats, in contrast,
+treadmill exercise decreased Bax expression and increased Bcl-2 expression. The
+present results demonstrated that treadmill exercise ameliorated AD-induced
+impairments of spatial learning ability and short-term memory through suppressing
+apoptosis. The antiapoptotic effect of treadmill exercise might be ascribed to
+the inhibitory effect of treadmill exercise on microglial activation.
+
+DOI: 10.12965/jer.1632858.429 
+PMCID: PMC5227313
+PMID: 28119873 
+
+
+2. Mayo Clin Proc. 2017 Feb;92(2):211-217. doi: 10.1016/j.mayocp.2016.10.020. Epub
+2017 Jan 9.
+
+Association Between Exercise Capacity and Late Onset of Dementia, Alzheimer
+Disease, and Cognitive Impairment.
+
+Müller J(1), Chan K(2), Myers JN(3).
+
+Author information: 
+(1)Institute of Preventive Pediatrics, Technische Universität München, München,
+Germany; Division of Cardiology, Veterans Affairs Palo Alto Health Care System,
+Palo Alto, CA; Stanford University School of Medicine, Stanford, CA. Electronic
+address: j.mueller@tum.de. (2)Division of Cardiology, Veterans Affairs Palo Alto 
+Health Care System, Palo Alto, CA. (3)Division of Cardiology, Veterans Affairs
+Palo Alto Health Care System, Palo Alto, CA; Stanford University School of
+Medicine, Stanford, CA.
+
+OBJECTIVE: To address the association between exercise capacity and the onset of 
+dementia, Alzheimer disease, and cognitive impairment.
+PATIENTS AND METHODS: For 6104 consecutive veteran patients (mean ± SD age:
+59.2±11.4 years) referred for treadmill exercise testing, the combined end point 
+of dementia, Alzheimer disease, and cognitive impairment was abstracted from the 
+Veterans Affairs computerized patient record system.
+RESULTS: After mean ± SD follow-up of 10.3±5.5 years, 353 patients (5.8%)
+developed the composite end point at a mean ± SD age of 76.7±10.3 years. After
+correction for confounders in multivariate Cox proportional hazards regression,
+higher age at exercise testing (hazard ratio [HR]=1.08; 95% CI, 1.07-1.09;
+P<.001), current smoking (HR=1.44; 95% CI, 1.08-1.93; P=.01), and exercise
+capacity (HR=0.92; 95% CI, 0.89-0.96; P<.001) emerged as predictors of cognitive 
+impairment. Each 1-metabolic equivalent increase in exercise capacity conferred a
+nearly 8% reduction in the incidence of cognitive impairment. Meeting the
+recommendations for daily activity was not associated with a delay in onset of
+cognitive impairment (HR=1.07; 95% CI, 0.86-1.32; P=.55).
+CONCLUSION: Exercise capacity is strongly associated with cognitive function; the
+inverse association between fitness and cognitive impairment provides an
+additional impetus for health care providers to promote physical activity.
+
+Copyright © 2016 Mayo Foundation for Medical Education and Research. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mayocp.2016.10.020 
+PMID: 28082018 
+
+
+3. Dement Geriatr Cogn Disord. 2016;42(3-4):146-158. Epub 2016 Sep 20.
+
+Cerebrospinal Fluid Amyloid Beta and Tau Concentrations Are Not Modulated by 16
+Weeks of Moderate- to High-Intensity Physical Exercise in Patients with Alzheimer
+Disease.
+
+Steen Jensen C(1), Portelius E, Siersma V, Høgh P, Wermuth L, Blennow K,
+Zetterberg H, Waldemar G, Gregers Hasselbalch S, Hviid Simonsen A.
+
+Author information: 
+(1)Danish Dementia Research Centre, Department of Neurology, Rigshospitalet,
+University of Copenhagen, Copenhagen, Denmark.
+
+BACKGROUND: Physical exercise may have some effect on cognition in patients with 
+Alzheimer disease (AD). However, the underlying biochemical effects are unclear. 
+Animal studies have shown that amyloid beta (Aβ), one of the pathological
+hallmarks of AD, can be altered with high levels of physical activity.
+AIM: The objective of this study was to elucidate the effect of 16 weeks of
+moderate- to high-intensity physical exercise on the biomarkers of AD, with
+special emphasis on the amyloidogenic pathway.
+METHODS: From a total of 53 patients with AD participating in the Preserving
+Cognition, Quality of Life, Physical Health and Functional Ability in Alzheimer's
+Disease: The Effect of Physical Exercise (ADEX) study we analyzed cerebrospinal
+fluid samples for Aβ species, total tau (t-tau), phosphorylated tau (p-tau) and
+soluble amyloid precursor protein (sAPP) species. We also assessed the patients
+for apolipoprotein E ε4 (ApoE ε4) genotype.
+RESULTS: We found no effect of 16 weeks of physical exercise on the selected
+biomarkers, and no effect of ApoE ε4 genotype.
+CONCLUSION: Our findings suggest that the possible effect of physical exercise on
+cognition in patients with AD is not due to modulation of Aβ, t-tau, p-tau and
+sAPP species.
+
+© 2016 S. Karger AG, Basel.
+
+DOI: 10.1159/000449408 
+PMID: 27643858 
+
+
+4. J Exerc Rehabil. 2016 Aug 31;12(4):276-83. doi: 10.12965/jer.1632678.339.
+eCollection 2016.
+
+Treadmill exercise ameliorates Alzheimer disease-associated memory loss through
+the Wnt signaling pathway in the streptozotocin-induced diabetic rats.
+
+Kim DY(1), Jung SY(2), Kim K(3), Kim CJ(4).
+
+Author information: 
+(1)Department of Sports Healthcare, College of Humanities & Social Sciences, Inje
+University, Gimhae, Korea. (2)Department of Physical Therapy, Hosan University,
+Gyeongsan, Korea. (3)School of Exercise & Sport Science, College of Natural
+Sciences, University of Ulsan, Ulsan, Korea. (4)Department of Physiology, College
+of Medicine, Kyung Hee University, Seoul, Korea.
+
+Diabetes mellitus is considered as a risk factor for Alzheimer disease. The aim
+of the present study was to evaluate the possibility whether treadmill exercise
+ameliorates Alzheimer disease-associated memory loss in the diabetes mellitus.
+For this study, the effects of treadmill exercise on short-term memory and
+spatial learning ability in relation with Wnt signaling pathway were evaluated
+using the streptozotocin (STZ)-induced diabetic rats. Diabetes was induced by
+intraperitoneal injection of STZ. Step-down avoidance task and 8-arm radial maze 
+test were performed for the memory function. Immunohistochemistry for
+5-bro-mo-2'-deoxyridine (BrdU) and doublecortin (DCX) and Western blot for Wnt3
+and glycogen synthase kinase-3β (GSK-3β) were conducted. The rats in the exercise
+groups were made to run on the treadmill for 30 min per one day, 5 times a week, 
+during 12 weeks. In the present results, short-term memory and spatial learning
+ability were deteriorated by induction of diabetes. Treadmill exercise improved
+short-term memory and spatial learning ability in the diabetic rats. The numbers 
+of BrdU-positive and DCX-positive cells in the hippocampal dentate gyrus were
+decreased by induction of diabetes. Treadmill exercise increased these numbers in
+the diabetic rats. Wnt3 expression in the hippocampus was decreased and GSK-3β
+expression in the hippocampus was increased by induction of diabetes. Treadmill
+exercise increased Wnt3 expression and suppressed GSK-3β expression in the
+diabetic rats. The present study suggests that treadmill exercise alleviates
+Alzheimer disease-associated memory loss by increasing neurogenesis through
+activating Wnt signaling pathway in the diabetic rats.
+
+DOI: 10.12965/jer.1632678.339 
+PMCID: PMC5031391
+PMID: 27656623 
+
+
+5. Am J Geriatr Psychiatry. 2016 Sep;24(9):738-9. doi: 10.1016/j.jagp.2016.06.002.
+Epub 2016 Jul 5.
+
+Getting on Message: Preventing Alzheimer Disease Through Diet and Exercise.
+
+Steffens EB(1), Steffens DC(2).
+
+Author information: 
+(1)Department of Psychiatry, University of Connecticut Health Center, Farmington,
+CT. Electronic address: steffens@uchc.edu. (2)Department of Psychiatry,
+University of Connecticut Health Center, Farmington, CT.
+
+DOI: 10.1016/j.jagp.2016.06.002 
+PMID: 27569267 
+
+
+6. J Am Geriatr Soc. 2016 Apr;64(4):731-8. doi: 10.1111/jgs.14059. Epub 2016 Apr 1.
+
+Effects of Exercise on Cognition: The Finnish Alzheimer Disease Exercise Trial: A
+Randomized, Controlled Trial.
+
+Öhman H(1,)(2,)(3), Savikko N(4), Strandberg TE(5,)(6,)(7), Kautiainen H(1,)(2), 
+Raivio MM(1,)(2), Laakkonen ML(1,)(2,)(3), Tilvis R(5,)(6), Pitkälä KH(1,)(2).
+
+Author information: 
+(1)Department of General Practice, University of Helsinki, Helsinki, Finland.
+(2)Unit of General Practice, Helsinki University Hospital, Helsinki, Finland.
+(3)Hospital, Rehabilitation, and Care Services, Helsinki, Finland. (4)Home Care, 
+Espoo, Finland. (5)Department of Internal Medicine and Geriatrics, University of 
+Helsinki, Helsinki, Finland. (6)Clinics of Internal Medicine and Geriatrics,
+Helsinki University Central Hospital, Helsinki, Finland. (7)Unit of General
+Practice, Oulu University Hospital, Oulu, Finland.
+
+OBJECTIVES: To examine whether a regular, long-term exercise program performed by
+individuals with Alzheimer's disease (AD) at home or as group-based exercise at
+an adult daycare center has beneficial effects on cognition; to examine secondary
+outcomes of a trial that has been published earlier.
+DESIGN: Randomized, controlled trial.
+SETTING: Community.
+PARTICIPANTS: Community-dwelling dyads (N = 210) of individuals with AD and their
+spousal caregivers randomized into three groups.
+INTERVENTION: Two types of intervention comprising customized home-based exercise
+(HE) and group-based exercise (GE), each twice a week for 1 year, were compared
+with a control group (CG) receiving usual community care.
+MEASUREMENTS: Cognitive function was measured using the Clock Drawing Test (CDT),
+Verbal Fluency (VF), Clinical Dementia Rating (CDR), and Mini-Mental State
+Examination (MMSE) at baseline and 3, 6, and 12 months of follow-up.
+RESULTS: Executive function, measured using CDT, improved in the HE group, and
+changes in the score were significantly better than those of the CG at 12 months 
+(adjusted for age, sex, and CDR, P = .03). All groups deteriorated in VF and MMSE
+score during the intervention, and no significant differences between the groups 
+were detected at 12-month follow-up when analyses were adjusted for age, sex, and
+CDR.
+CONCLUSION: Regular, long-term, customized HE improved the executive function of 
+community-dwelling older people with memory disorders, but the effects were mild 
+and were not observed in other domains of cognition.
+
+© 2016, Copyright the Authors Journal compilation © 2016, The American Geriatrics
+Society.
+
+DOI: 10.1111/jgs.14059 
+PMID: 27037872  [Indexed for MEDLINE]
+
+
+7. Am J Geriatr Psychiatry. 2015 Dec;23(12):1234-49. doi:
+10.1016/j.jagp.2015.07.007. Epub 2015 Jul 21.
+
+Drug and Exercise Treatment of Alzheimer Disease and Mild Cognitive Impairment: A
+Systematic Review and Meta-Analysis of Effects on Cognition in Randomized
+Controlled Trials.
+
+Ströhle A(1), Schmidt DK(2), Schultz F(3), Fricke N(3), Staden T(2), Hellweg
+R(2), Priller J(4), Rapp MA(5), Rieckmann N(6).
+
+Author information: 
+(1)Department of Psychiatry and Psychotherapy, Campus Charité Mitte, Charité -
+Universitätsmedizin Berlin, Germany. Electronic address:
+andreas.stroehle@charite.de. (2)Department of Psychiatry and Psychotherapy,
+Campus Charité Mitte, Charité - Universitätsmedizin Berlin, Germany.
+(3)Psychologische Hochschule Berlin, Germany. (4)Department of Psychiatry and
+Psychotherapy, Campus Charité Mitte, Charité - Universitätsmedizin Berlin,
+Germany; Department of Neuropsychiatry, Charité - Universitätsmedizin Berlin,
+Germany; Cluster of Excellence, NeuroCure, German Center for Neurodegenerative
+Diseases and BIH, Berlin, Germany. (5)Social and Preventive Medicine, University 
+of Potsdam, Potsdam, Germany. (6)Berlin School of Public Health, Charité -
+Universitätsmedizin Berlin, Germany.
+
+OBJECTIVE: Demographic changes are increasing the pressure to improve therapeutic
+strategies against cognitive decline in Alzheimer disease (AD) and mild cognitive
+impairment (MCI). Besides drug treatment, physical activity seems to be a
+promising intervention target as epidemiological and clinical studies suggest
+beneficial effects of exercise training on cognition. Using comparable inclusion 
+and exclusion criteria, we analyzed the efficacy of drug therapy (cholinesterase 
+inhibitors, memantine, and Ginkgo biloba) and exercise interventions for
+improving cognition in AD and MCI populations.
+METHODS: We searched The Cochrane Library, EBSCO, OVID, Web of Science, and U.S
+Food and Drug Administration data from inception through October 30, 2013.
+Randomized controlled trials in which at least one treatment arm consisted of an 
+exercise or a pharmacological intervention for AD or MCI patients, and which had 
+either a non-exposed control condition or a control condition that received
+another intervention. Treatment discontinuation rates and Standardized Mean
+Change score using Raw score standardization (SMCR) of cognitive performance were
+calculated.
+RESULTS: Discontinuation rates varied substantially and ranged between 0% and 49%
+with a median of 18%. Significantly increased discontinuation rates were found
+for galantamine and rivastigmine as compared to placebo in AD studies. Drug
+treatments resulted in a small pooled effect on cognition (SMCR: 0.23, 95% CI:
+0.20 to 0.25) in AD studies (N = 45, 18,434 patients) and no effect in any of the
+MCI studies (N = 5, 3,693 patients; SMCR: 0.03, 95% CI: 0.00 to 0.005). Exercise 
+interventions had a moderate to strong pooled effect size (SMCR: 0.83, 95% CI:
+0.59 to 1.07) in AD studies (N = 4, 119 patients), and a small effect size (SMCR:
+0.20, 95% CI: 0.11 to 0.28) in MCI (N = 6, 443 patients).
+CONCLUSIONS: Drug treatments have a small but significant impact on cognitive
+functioning in AD and exercise has the potential to improve cognition in AD and
+MCI. Head-to-head trials with sufficient statistical power are necessary to
+directly compare efficacy, safety, and acceptability. Combining these two
+approaches might further increase the efficacy of each individual intervention.
+IDENTIFIER: PROSPERO (2013:CRD42013003910).
+
+Copyright © 2015 American Association for Geriatric Psychiatry. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jagp.2015.07.007 
+PMID: 26601726  [Indexed for MEDLINE]
+
+
+8. J Exerc Rehabil. 2014 Feb 28;10(1):2-8. doi: 10.12965/jer.140086. eCollection
+2014.
+
+Treadmill exercise improves short-term memory by enhancing neurogenesis in
+amyloid beta-induced Alzheimer disease rats.
+
+Kim BK(1), Shin MS(1), Kim CJ(1), Baek SB(2), Ko YC(3), Kim YP(3).
+
+Author information: 
+(1)Department of Physiology, College of Medicine, Kyung Hee University, Seoul,
+Korea. (2)Department of Psychiatry, Gangneung Asan Hospital, Ulsan University,
+Gangneung, Korea. (3)Faculty of Exercise & Sports Science, Jeju National
+University, Jeju, Korea.
+
+Alzheimer's disease is one of the most devastating neurodegenerative disorders,
+and this disease is characterized by severe memory impairment and decline of
+cognition. Hippocampal neurons are vulnerable to injury induced by Alzheimer's
+disease. Physical exercise is known to promote cell survival and functional
+recovery after brain injuries. In the present study, we investigated the effects 
+of treadmill exercise on short-term memory in relation with neurogenesis in the
+rats with amyloid β25-35 (Aβ25-35)-induced Alzheimer's disease. The rat model of 
+Alzheimer's disease was induced by the intracerebroventricular (ICV) injection of
+Aβ25-35, using a stereotaxic instrument. The rats in the exercise group were
+forced to run on a treadmill for 30 min once daily for 4 consecutive weeks,
+starting 2 days after Aβ25-35 injection. Presently, short-term memory was
+deteriorated and apical dendritic length in the hippocampus was shortened in the 
+hippocampus by Aβ25-35 injection. In contrast, treadmill exercise alleviated
+memory impairment and increased apical dendritic length in the Aβ25-35-injected
+rats. Neurogenesis and brain-derived neurotorphic factor (BDNF) and tyrosine
+kinase B (trkB) in the hippocampal dentate gyrus were decreased by Aβ25-35
+injection. Treadmill exercise increased neurogenesis and expressions of BDNF and 
+trkB expressions. The present study shows that treadmill exercise may provide
+therapeutic value for the alleviating symptoms of Alzheimer's disease.
+
+DOI: 10.12965/jer.140086 
+PMCID: PMC3952831
+PMID: 24678498 
+
+
+9. Front Physiol. 2014 Jan 21;5:6. doi: 10.3389/fphys.2014.00006. eCollection 2014.
+
+Cerebral hemodynamics of the aging brain: risk of Alzheimer disease and benefit
+of aerobic exercise.
+
+Tarumi T(1), Zhang R(2).
+
+Author information: 
+(1)Institute for Exercise and Environmental Medicine, Texas Health Presbyterian
+Hospital Dallas Dallas, TX, USA ; Department of Internal Medicine, University of 
+Texas Southwestern Medical Center Dallas, TX, USA. (2)Institute for Exercise and 
+Environmental Medicine, Texas Health Presbyterian Hospital Dallas Dallas, TX, USA
+; Department of Internal Medicine, University of Texas Southwestern Medical
+Center Dallas, TX, USA ; Department of Neurology and Neurotherapeutics,
+Alzheimer's Disease Center, University of Texas Southwestern Medical Center
+Dallas, TX, USA.
+
+Alzheimer disease (AD) and cerebrovascular disease often coexist with advanced
+age. Mounting evidence indicates that the presence of vascular disease and its
+risk factors increase the risk of AD, suggesting a potential overlap of the
+underlying pathophysiological mechanisms. In particular, atherosclerosis,
+endothelial dysfunction, and stiffening of central elastic arteries have been
+shown to associate with AD. Currently, there are no effective treatments for the 
+cure and prevention of AD. Vascular risk factors are modifiable via either
+pharmacological or lifestyle intervention. In this regard, habitual aerobic
+exercise is increasingly recognized for its benefits on brain structure and
+cognitive function. Considering the well-established benefits of regular aerobic 
+exercise on vascular health, exercise-related improvements in brain structure and
+cognitive function may be mediated by vascular adaptations. In this review, we
+will present the current evidence for the physiological mechanisms by which
+vascular health alters the structural and functional integrity of the aging brain
+and how improvements in vascular health, via regular aerobic exercise,
+potentially benefits cognitive function.
+
+DOI: 10.3389/fphys.2014.00006 
+PMCID: PMC3896879
+PMID: 24478719 
+
+
+10. Ann Intern Med. 2013 Aug 20;159(4):JC10. doi:
+10.7326/0003-4819-159-4-201308200-02010.
+
+ACP Journal Club. A 12-month, in-home exercise program delayed functional
+deterioration in Alzheimer disease.
+
+Hirsch C.
+
+Comment on
+    JAMA Intern Med. 2013 May 27;173(10):894-901.
+
+DOI: 10.7326/0003-4819-159-4-201308200-02010 
+PMID: 24026274  [Indexed for MEDLINE]
+
+
+11. JAMA Intern Med. 2013 May 27;173(10):894-901. doi:
+10.1001/jamainternmed.2013.359.
+
+Effects of the Finnish Alzheimer disease exercise trial (FINALEX): a randomized
+controlled trial.
+
+Pitkälä KH(1), Pöysti MM, Laakkonen ML, Tilvis RS, Savikko N, Kautiainen H,
+Strandberg TE.
+
+Author information: 
+(1)Unit of Primary Health Care, Helsinki University Central Hospital, Finland.
+kaisu.pitkala@helsinki.fi
+
+Comment in
+    Ann Intern Med. 2013 Aug 20;159(4):JC10.
+    JAMA Intern Med. 2013 May 27;173(10):901-2.
+    MMW Fortschr Med. 2013 Nov 7;155(19):32.
+
+IMPORTANCE: Few rigorous clinical trials have investigated the effectiveness of
+exercise on the physical functioning of patients with Alzheimer disease (AD).
+OBJECTIVES: To investigate the effects of intense and long-term exercise on the
+physical functioning and mobility of home-dwelling patients with AD and to
+explore its effects on the use and costs of health and social services.
+DESIGN: A randomized controlled trial.
+SETTING AND PARTICIPANTS: A total of 210 home-dwelling patients with AD living
+with their spousal caregiver.
+INTERVENTIONS: The 3 trial arms included (1) group-based exercise (GE; 4-hour
+sessions with approximately 1-hour training) and (2) tailored home-based exercise
+(HE; 1-hour training), both twice a week for 1 year, and (3) a control group (CG)
+receiving the usual community care.
+MAIN OUTCOME MEASURES: The Functional Independence Measure (FIM), the Short
+Physical Performance Battery, and information on the use and costs of social and 
+health care services.
+RESULTS: All groups deteriorated in functioning during the year after
+randomization, but deterioration was significantly faster in the CG than in the
+HE or GE group at 6 (P = .003) and 12 (P = .015) months. The FIM changes at 12
+months were -7.1 (95% CI, -3.7 to -10.5), -10.3 (95% CI, -6.7 to -13.9), and
+-14.4 (95% CI, -10.9 to -18.0) in the HE group, GE group, and CG, respectively.
+The HE and GE groups had significantly fewer falls than the CG during the
+follow-up year. The total costs of health and social services for the HE
+patient-caregiver dyads (in US dollars per dyad per year) were $25,112 (95% CI,
+$17,642 to $32,581) (P = .13 for comparison with the CG), $22,066 in the GE group
+($15,931 to $28,199; P = .03 vs CG), and $34,121 ($24,559 to $43,681) in the CG.
+CONCLUSIONS AND RELEVANCE: An intensive and long-term exercise program had
+beneficial effects on the physical functioning of patients with AD without
+increasing the total costs of health and social services or causing any
+significant adverse effects.
+TRIAL REGISTRATION: anzctr.org.au Identifier: ACTRN12608000037303.
+
+DOI: 10.1001/jamainternmed.2013.359 
+PMID: 23589097  [Indexed for MEDLINE]
+
+
+12. JAMA Intern Med. 2013 May 27;173(10):901-2. doi: 10.1001/jamainternmed.2013.1215.
+
+Exercise in Alzheimer disease: comment on "Effects of the Finnish Alzheimer
+disease exercise trial (FINALEX): a randomized controlled trial".
+
+Clarfield AM(1), Dwolatzky T.
+
+Author information: 
+(1)Department of Geriatrics, Soroka Hospital, Beersheva, Israel.
+markclar@bgu.ac.il
+
+Comment on
+    JAMA Intern Med. 2013 May 27;173(10):894-901.
+
+DOI: 10.1001/jamainternmed.2013.1215 
+PMID: 23588877  [Indexed for MEDLINE]
+
+
+13. Neurology. 2012 Apr 24;78(17):e110-2. doi: 10.1212/WNL.0b013e318255e0c9.
+
+Preventing Alzheimer disease with exercise?
+
+Karceski S.
+
+Comment on
+    Neurology. 2012 Apr 24;78(17):1323-9.
+
+DOI: 10.1212/WNL.0b013e318255e0c9 
+PMID: 22529211  [Indexed for MEDLINE]
+
+
+14. J Geriatr Phys Ther. 2011 Apr-Jun;34(2):50-6. doi: 10.1519/JPT.0b013e31820aab9c.
+
+A randomized controlled trial of an activity specific exercise program for
+individuals with Alzheimer disease in long-term care settings.
+
+Roach KE(1), Tappen RM, Kirk-Sanchez N, Williams CL, Loewenstein D.
+
+Author information: 
+(1)Department of Physical Therapy, Miller School of Medicine, University of
+Miami, Coral Gables, Florida 33146, USA. keroach@miami.edu
+
+OBJECTIVE: To determine whether an activity specific exercise program could
+improve ability to perform basic mobility activities in long-term care residents 
+with Alzheimer disease (AD).
+DESIGN: Randomized, controlled, single-blinded clinical trial.
+SETTING: Residents of 7 long-term care facilities.
+PARTICIPANTS: Eighty-two long-term care residents with mild to severe AD.
+INTERVENTION: An activity specific exercise program was compared to a walking
+program and to an attention control.
+MEASUREMENTS: Ability to perform bed mobility and transfers was assessed using
+the subscales of the Acute Care Index of Function; functional mobility was
+measured using the 6-Minute Walk test.
+RESULTS: Subjects receiving the activity specific exercise program improved in
+ability to perform transfers, whereas subjects in the other 2 groups declined.
+
+DOI: 10.1519/JPT.0b013e31820aab9c 
+PMCID: PMC3179603
+PMID: 21937893  [Indexed for MEDLINE]
+
+
+15. Int J Neurosci. 2011 Aug;121(8):450-6. doi: 10.3109/00207454.2011.574762. Epub
+2011 May 17.
+
+Reliability of peak treadmill exercise tests in mild Alzheimer disease.
+
+Anderson HS(1), Kluding PM, Gajewski BJ, Donnelly JE, Burns JM.
+
+Author information: 
+(1)Department of Neurology, University of Kansas School of Medicine, Kansas City,
+Kansas 66160, USA. handerson3@kumc.edu
+
+INTRODUCTION: The purpose of this study was to determine the reliability of
+treadmill peak exercise testing in people with very mild-to-mild Alzheimer
+disease (AD).
+METHODS: Sixteen subjects with very mild-to-mild AD performed graded peak
+treadmill exercise tests twice within a 14-day period. Heart rate, oxygen
+consumption, and respiratory exchange ratio (RER) were continuously monitored.
+Peak values were analyzed for absolute level of agreement.
+RESULTS: Fourteen participants (87.5%) completed testing. Reliability was
+excellent with total peak oxygen consumption (VO2peak) (ml/kg/min) highly
+correlated across the two tests (r = 0.94, p < .001) with an intraclass
+correlation coefficient (ICC[3,1]) of 0.92 (95% confidence interval (CI) = 0.78, 
+0.97). The standard error of measurement (SEM) for VO2peak was 1.29 (95% CI =
+0.88, 1.89).
+CONCLUSIONS: These results indicate that peak exercise testing on a treadmill is 
+reliable in the early stages of AD.
+
+DOI: 10.3109/00207454.2011.574762 
+PMCID: PMC3143203
+PMID: 21574893  [Indexed for MEDLINE]
+
+
+16. JAMA. 2009 Dec 9;302(22):2431; author reply 2431-2. doi: 10.1001/jama.2009.1790.
+
+Diet, exercise habits, and risk of Alzheimer disease.
+
+Blumenthal JA, Babyak MA, Sherwood A.
+
+Comment on
+    JAMA. 2009 Aug 12;302(6):627-37.
+
+DOI: 10.1001/jama.2009.1790 
+PMID: 19996394  [Indexed for MEDLINE]
+
+
+17. ACP J Club. 2007 Jul-Aug;147(1):5.
+
+An exercise program led to a slower decline in activities of daily living in
+nursing-home patients with Alzheimer disease.
+
+Hirsch C(1).
+
+Author information: 
+(1)University of California, Davis Medical Center, Sacramento, California, USA.
+
+Comment on
+    J Am Geriatr Soc. 2007 Feb;55(2):158-65.
+
+
+PMID: 17608370 
+
+
+18. Lakartidningen. 2006 Mar 22-28;103(12):912-3.
+
+[Life-long mental exercise can prevent Alzheimer disease].
+
+[Article in Swedish]
+
+Wahlund LO(1).
+
+Author information: 
+(1)Sektionen för klinisk geriatrik, Neurotec-institutionen, Karolinska
+Universitetssjukhuset, Huddinge. lars-olof.wahlund@neurotec.ki.se
+
+
+PMID: 16618034  [Indexed for MEDLINE]
+
+
+19. PLoS Med. 2005 Jan;2(1):e7.
+
+Educating the brain to avoid dementia: can mental exercise prevent Alzheimer
+disease?
+
+Gatz M(1).
+
+Author information: 
+(1)Department of Psychology, University of Southern California, Los Angeles,
+California, USA. gatz@usc.edu
+
+Comment in
+    PLoS Med. 2005 Mar;2(3):e82; author reply e86.
+
+DOI: 10.1371/journal.pmed.0020007 
+PMCID: PMC545200
+PMID: 15696217  [Indexed for MEDLINE]
+
+
+20. Alzheimer Dis Assoc Disord. 2004 Apr-Jun;18(2):54-6.
+
+Exercise, aging, and Alzheimer disease.
+
+Larson EB, Wang L.
+
+Comment on
+    Alzheimer Dis Assoc Disord. 2004 Apr-Jun;18(2):57-64.
+
+
+PMID: 15249847  [Indexed for MEDLINE]
+
+
+21. ACP J Club. 2004 May-Jun;140(3):77.
+
+An exercise and behavioral management program reduced functional dependence in
+Alzheimer disease.
+
+Stott DJ(1), Taylor M.
+
+Author information: 
+(1)Glasgow Royal Infirmary, Glasgow, Scotland, UK.
+
+Comment on
+    JAMA. 2003 Oct 15;290(15):2015-22.
+
+
+PMID: 15122840 
+
+
+22. JAMA. 2003 Oct 15;290(15):2015-22.
+
+Exercise plus behavioral management in patients with Alzheimer disease: a
+randomized controlled trial.
+
+Teri L(1), Gibbons LE, McCurry SM, Logsdon RG, Buchner DM, Barlow WE, Kukull WA, 
+LaCroix AZ, McCormick W, Larson EB.
+
+Author information: 
+(1)Department of Psychosocial and Community Health, University of Washington,
+Seattle 98195, USA. lteri@u.washington.edu
+
+Comment in
+    Evid Based Ment Health. 2004 May;7(2):43.
+    ACP J Club. 2004 May-Jun;140(3):77.
+
+CONTEXT: Exercise training for patients with Alzheimer disease combined with
+teaching caregivers how to manage behavioral problems may help decrease the
+frailty and behavioral impairment that are often prevalent in patients with
+Alzheimer disease.
+OBJECTIVE: To determine whether a home-based exercise program combined with
+caregiver training in behavioral management techniques would reduce functional
+dependence and delay institutionalization among patients with Alzheimer disease.
+DESIGN, SETTING, AND PATIENTS: Randomized controlled trial of 153
+community-dwelling patients meeting National Institute of Neurological and
+Communicative Diseases and Stroke/Alzheimer Disease and Related Disorders
+Association criteria for Alzheimer disease, conducted between June 1994 and April
+1999.
+INTERVENTIONS: Patient-caregiver dyads were randomly assigned to the combined
+exercise and caregiver training program, Reducing Disability in Alzheimer Disease
+(RDAD), or to routine medical care (RMC). The RDAD program was conducted in the
+patients' home over 3 months.
+MAIN OUTCOME MEASURES: Physical health and function (36-item Short-Form Health
+Survey's [SF-36] physical functioning and physical role functioning subscales and
+Sickness Impact Profile's Mobility subscale), and affective status (Hamilton
+Depression Rating Scale and Cornell Depression Scale for Depression in Dementia).
+RESULTS: At 3 months, in comparison with the routine care patients, more patients
+in the RDAD group exercised at least 60 min/wk (odds ratio [OR], 2.82; 95%
+confidence interval [CI], 1.25-6.39; P =.01) and had fewer days of restricted
+activity (OR, 3.10; 95% CI, 1.08-8.95; P<.001). Patients in the RDAD group also
+had improved scores for physical role functioning compared with worse scores for 
+patients in the RMC group (mean difference, 19.29; 95% CI, 8.75-29.83; P<.001).
+Patients in the RDAD group had improved Cornell Depression Scale for Depression
+in Dementia scores while the patients in the RMC group had worse scores (mean
+difference, -1.03; 95% CI, -0.17 to -1.91; P =.02). At 2 years, the RDAD patients
+continued to have better physical role functioning scores than the RMC patients
+(mean difference, 10.89; 95% CI, 3.62-18.16; P =.003) and showed a trend (19% vs 
+50%) for less institutionalization due to behavioral disturbance. For patients
+with higher depression scores at baseline, those in the RDAD group improved
+significantly more at 3 months on the Hamilton Depression Rating Scale (mean
+difference, 2.21; 95% CI, 0.22-4.20; P =.04) and maintained that improvement at
+24 months (mean difference, 2.14; 95% CI, 0.14-4.17; P =.04).
+CONCLUSION: Exercise training combined with teaching caregivers behavioral
+management techniques improved physical health and depression in patients with
+Alzheimer disease.
+
+DOI: 10.1001/jama.290.15.2015 
+PMID: 14559955  [Indexed for MEDLINE]
+
+
+23. Exp Neurol. 2003 Aug;182(2):421-6.
+
+Decreased platelet cytochrome c oxidase activity is accompanied by increased
+blood lactate concentration during exercise in patients with Alzheimer disease.
+
+Mancuso M(1), Filosto M, Bosetti F, Ceravolo R, Rocchi A, Tognoni G, Manca ML,
+Solaini G, Siciliano G, Murri L.
+
+Author information: 
+(1)Department of Neurosciences, Neurological Clinics, University of Pisa, Via
+Roma 67, 56126, Pisa, Italy. mmancuso@inwind.it
+
+Increasing evidence indicates that mitochondrial dysfunction occurs in the
+central nervous system as well as in the peripheral tissues from Alzheimer's
+disease (AD) patients. We have recently shown that mitochondrial cytochrome c
+oxidase (COX) activity is significantly reduced in brain and platelets from AD
+patients compared to controls. In the present study we investigated whether
+impaired COX activity could have functional consequences on energy metabolism.
+Blood lactate concentration was monitored at rest and during incremental exercise
+in 22 AD patients in whom COX activity in platelets was decreased compared to
+controls (35.7 +/- 11.4 vs 48.4 +/- 1.4 nmol/min/mg, P < 0.01). In both resting
+and exercising conditions, blood lactate was significantly higher in AD patients 
+than in controls. Although the magnitude of exercise-related lactate accumulation
+was not different between the two groups, an anticipated anaerobic lactate
+threshold during the incremental forearm exercise was found in AD patients (50%
+of maximal voluntary contraction MVC compared to 60% in controls). COX activity
+was inversely related to lactate at a significant level for resting condition (r 
+= -0.65) and borderline for anaerobic threshold exercise level. These results
+support the hypothesis of a systemic impairment of the mitochondrial function in 
+AD and indicate that decreased COX activity could have functional consequences on
+metabolism.
+
+
+PMID: 12895452  [Indexed for MEDLINE]
+
+
+24. J Nutr Health Aging. 2000;4(2):109-13.
+
+Feasibility [corrected] of regular physical exercise for patients with moderate
+to severe Alzheimer disease.
+
+Rolland Y(1), Rival L, Pillard F, Lafont C, Rivére D, Albaréde J, Vellas B.
+
+Author information: 
+(1)Service de &Mgrave;decine du Sport et d'Exploration Fonctionnelle
+Respiratoire, CHU Purpan, 31059 Toulouse Cedex, France.
+
+BACKGROUND: Physical activity delays loss of autonomy in the elderly. In patients
+with Alzheimer disease (AD), physical activity could be a useful strategy in
+therapeutic management by delaying loss of functional independence and the usual 
+complications of the disease.
+OBJECTIVE: To determine, using standardized tools, the effects on autonomy (ADL, 
+IADL), cognitive function (MMS), nutritional status (MNA), behavioral problems
+(NPI) and risk of falls (Tinetti test) of a physical exercise program in patients
+with AD.
+DESIGN: Twenty-three subjects (13 men and 10 women, aged 71-92 years, mean 78
+years) with AD (mean MMS 16, range 1-23) carried out for a mean of 7 weeks (5-12 
+weeks) a program of endurance exercise (walking, exercise bicycle) adapted to
+their individual capacities. Standardized gerontological evaluation was performed
+before and after the study.
+RESULTS: No significant change in autonomy (ADL, IADL) was observed. There was an
+improvement in the MNA (p<0.001) and the MMS (p<0.001). Risk of falls (p<0.01)
+and behavioral problems (p<0.05) decreased. These results were obtained without
+increasing family workload.
+CONCLUSION: We suggest that physical activity is a therapeutic option which can
+reduce nutritional and behavioral complications and risk of falls in subjects
+with AD.
+
+
+PMID: 10842423  [Indexed for MEDLINE]
+
